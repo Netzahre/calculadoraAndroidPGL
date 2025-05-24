@@ -42,11 +42,3 @@ The project follows a standard Android application structure:
     *   Select a target device (emulator or physical device).
     *   Click the "Run" button (green play icon) or select "Run" > "Run 'app'" from the menu.
 
-## Future Improvements
-
-*   **Advanced Scientific Functions:** Implement trigonometric functions (sin, cos, tan), logarithms, etc.
-*   **Calculation History:** Store and display a history of previous calculations.
-*   **Themes:** Allow users to customize the look and feel of the calculator (e.g., dark mode, different color schemes).
-*   **Input Validation:** More robust handling of invalid input sequences.
-*   **Unit Tests:** Add comprehensive unit tests to ensure the reliability of calculation logic.
-*   **Support for parentheses:** Allow users to group operations using parentheses.
